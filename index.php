@@ -58,7 +58,7 @@
     </div>
 </section>
 <footer>
-    <p>49030803R - Luis Miguel Barrera</p>
+    <p> Luis Miguel Barrera</p>
 </footer>
 </body>
 </html>
